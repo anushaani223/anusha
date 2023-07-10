@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color:skyblue ;
+    
+}
+#home{
+    background-color: red;
+}
+container{
+    align-items: center;
+    justify-content:center ;
+}
+img{
+    float: left;
+    max-width: 25%;
+    max-width: 15%;
+}
+text{
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 20%;
+    float:right;
+}
+button{
+    margin-left: 95%;
+    margin-top: 10%;
+    color:aqua;
+    border:20;
+}
